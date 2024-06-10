@@ -1,4 +1,4 @@
-# Celestial-Harmony
+# Celestial Harmony
 Official GitHub page to download the Celestial Harmony planet pack and its updates.
 
 Celestial Harmony is a system replacer for KSP, featuring a brand new star system. Will later feature an additional system.
