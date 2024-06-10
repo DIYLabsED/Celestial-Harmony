@@ -10,7 +10,7 @@ KSC Switcher is NOT supported..
 
 Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
-### **Dependencies!!! :**
+### **Dependencies (WILL NOT WORK WITHOUT THESE) :**
 
 - [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 - [VertexHeightOblateAdvanced by Lt_Duckweed](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
